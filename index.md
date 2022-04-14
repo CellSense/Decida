@@ -1,4 +1,4 @@
-<h2> Confused about which software or plugin to use for image analysis ?  We can help you choose. </h2>
+Confused about which software or plugin to use for image analysis ?  We can help you choose.
 
 
 **Decidas (Dissemination, Evaluation and Comparison of Image Data Analysis Software)** is a set of programs to help cell biologists choose the right image analysis tool.
