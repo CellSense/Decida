@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to Decidas
 
-You can use the [editor on GitHub](https://github.com/CellSense/Decida/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Decidas (Dissemination, Evaluation and Comparison of Image Data Analysis Software) is a community based tool to help biologist choose the right image analysis tool.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###
 
-### Markdown
+Confused about which software or plugin to use for image analysis ?  We can help you choose. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##
+List of analysis supported
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Deconvolution
+- Image Segmentation
+- Organelle morphology analysis
+- Three Dimensional colocalization
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+##
+List of softwares supported
+```markdown
+- ImageJ
+- FIJI
+- Napari
+- ICY
+- Huygens
+```
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CellSense/Decida/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Who are we?
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The Thiagarajah lab at the Boston Childrens Hospital is currently a team of biologists, physicists, computer scientists and imaging experts working on understanding how cells sense and interact with their surroundings. Learn more about our research <a href="http://thiagarajahlab.com/"> here </a>.
