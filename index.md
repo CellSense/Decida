@@ -24,7 +24,6 @@ List of softwares supported
 ```
 
 
-![What is this](overview.png)
 
  Who are we?
 
