@@ -24,6 +24,8 @@ List of softwares supported
 ```
 
 
+![What is this](overview.png)
+
  Who are we?
 
 The Thiagarajah lab at the Boston Childrens Hospital is currently a team of biologists, physicists, computer scientists and imaging experts working on understanding how cells sense and interact with their surroundings. Learn more about our research <a href="http://thiagarajahlab.com/"> here </a>.
