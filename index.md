@@ -1,4 +1,4 @@
-Decidas (Dissemination, Evaluation and Comparison of Image Data Analysis Software) is a set of programs to help any biologist choose the right image analysis tool.
+**Decidas (Dissemination, Evaluation and Comparison of Image Data Analysis Software)** is a set of programs to help cell biologists choose the right image analysis tool.
 
 
 Confused about which software or plugin to use for image analysis ?  We can help you choose. 
