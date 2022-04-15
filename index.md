@@ -24,7 +24,7 @@ List of softwares supported
 ```
 
 
-![What is this](overview.png)
+![What is this](decidas.png)
 
  Who are we?
 
